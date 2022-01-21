@@ -1,0 +1,2 @@
+int valor 100;
+int label_x 54;
